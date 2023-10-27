@@ -5,8 +5,8 @@ locals {
     description = "ingress rules for port 443"
     },
     {
-    port        = 80
-    description = "ingress rules for port 80"
+      port        = 80
+      description = "ingress rules for port 80"
     },
     {
       port        = 22
